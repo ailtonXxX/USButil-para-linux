@@ -16,3 +16,4 @@ agora execulte o usbutil como administrador "sudo"
 
 sudo usbutil-final.py
 
+![USButil-beta foto](https://github.com/ailtonXxX/USButil-para-linux/blob/main/Captura%20de%20tela%20de%202025-10-03%2011-37-51.png)
