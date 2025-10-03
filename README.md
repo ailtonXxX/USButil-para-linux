@@ -15,3 +15,4 @@ sudo ./install-deps.sh
 agora execulte o usbutil como administrador "sudo"
 
 sudo usbutil-final.py
+
