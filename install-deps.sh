@@ -19,4 +19,4 @@ sudo apt install -y \
     python3-venv
 
 echo ">>> Todas as dependências foram instaladas com sucesso!"
-echo "Agora você pode rodar o programa com: python3 USButil.py"
+echo "Agora você pode rodar o programa com: sudo python3 USButil.py"
